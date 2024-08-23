@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dynamic User Access Management</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="page-container">
+      <h1>Dynamic User Access Management</h1>
+      <form class="interface">
+        <div class="input">
+          <label for="role">Role:</label>
+          <input type="text" id="role" name="role" placeholder="Enter role" />
+        </div>
+        <div class="input">
+          <label for="age">Age:</label>
+          <input type="number" id="age" name="age" placeholder="Enter age" />
+        </div>
+
+        <button class="access btn">Grant Access</button>
+        <p id="message"></p>
+      </form>
+    </div>
+
+    <script src="access.js"></script>
+  </body>
+</html>
