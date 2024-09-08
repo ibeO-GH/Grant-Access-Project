@@ -12,6 +12,8 @@ This page is a Dynamic User Access Management Project page where users are given
 
 \*Implemented responsiveness for tablet and mobile screens
 
+## GitHub Pages - https://ibeo-gh.github.io/Grant-Access-Project/
+
 ## Screenshot of how it looks
 
 <img src="/screenshots/screenshot1.png" alt="image" />
