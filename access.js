@@ -1,3 +1,4 @@
+// Js code
 const checkAccessButton = document.querySelector(".access"); // equating variable to button
 
 checkAccessButton.addEventListener("click", handleAccessCheck); // adding eventListener
